@@ -3,6 +3,7 @@ import battleship.ui.BattleshipWindow;
 import online.Client;
 
 //Testing 1 2 3!!
+//Howdy
 
 public class App {
     private static Client client;
